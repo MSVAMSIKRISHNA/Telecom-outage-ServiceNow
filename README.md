@@ -1,6 +1,6 @@
 # 📡 Telecom Outage Experience Manager (TOEM)
 
-A **ServiceNow scoped application** built to streamline telecom outage management — from report intake and automated event correlation through to customer notification and resolution tracking.
+A **ServiceNow scoped application** built to streamline telecom outage management - from report intake and automated event correlation through to customer notification and resolution tracking.
 
 ---
 
